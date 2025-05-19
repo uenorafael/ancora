@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+border-width: 5px;}
+.macaco{
+    background-color: blue;
+    border-color: aqua;
+    
+}
+#logo{
+
+    margin-left: 43%;
+    width: 20%;
+}
+#lg{
+    border-color: aqua;
+    border-style: dashed;
+    margin-left: 40%;
+    width: 25%;
+}
+#lga{
+    margin-left: 40%;
+    background-color: yellow;
+    border-color: yellow;
+    border-style: dashed;
+    width: 25%;
+}
+.jb{
+    background-color: rgb(255, 230, 0);
+    border-color: rgb(255, 238, 0);
+    border-style: dashed;
+}
